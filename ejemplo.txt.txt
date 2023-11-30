@@ -1,0 +1,1 @@
+Este es un ejemplo de uso de GIT. Lo vamos a agregar en el stagin area.
